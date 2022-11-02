@@ -1,0 +1,12 @@
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\obj\Debug\oop class test.csproj.AssemblyReference.cache
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\obj\Debug\oop class test.csproj.CoreCompileInputs.cache
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\oop class test.dll
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\oop class test.pdb
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\nunit.framework.dll
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\nunit.framework.xml
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\obj\Debug\oop class test.csproj.CopyComplete
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\obj\Debug\oop class test.dll
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\obj\Debug\oop class test.pdb
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\oop classs.exe
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\oop classs.pdb
+C:\Users\RAJESHWARI.R\source\repos\oop class\oop class test\bin\Debug\oop classs.exe.config
